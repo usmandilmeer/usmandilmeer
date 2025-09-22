@@ -41,7 +41,7 @@ With 4+ years of professional experience in the software industry, I specialize 
 
 ## 📲 Published Apps  
 - **Quotes Haven - Inspire Daily** (Android)  
-- **Ayat-e-Quran | Status** (in progress)  
+- **ChatGen AI** ((Upcoming))  
 - 🌟 Several exciting projects are in the pipeline!  
 
 ---
