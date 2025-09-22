@@ -46,13 +46,17 @@ With 4+ years of professional experience in the software industry, I specialize 
 
 ---
 
+## 🌐 Connect with Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/usmandilmeer/)  
+- 💻 [Portfolio](https://mkdcodes.com/)  
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-self-omega-64.vercel.app/api?username=usmandilmeer" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-self-omega-64.vercel.app/api/top-langs?username=usmandilmeer&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usmandilmeer" alt="GitHub Streak" />
+</a>
 
-## 🌐 Connect with Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/usmandilmeer/)  
-- 💻 [Portfolio](https://mkdcodes.com/)  
